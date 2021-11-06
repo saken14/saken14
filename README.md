@@ -3,4 +3,4 @@
 - 🌱 I’m currently developing skills: PHP & JS;
 - 💞️ I’m looking to collaborate on Kolesa.kz or Kaspi.kz or Google.com
 - 📫 How to reach me: sakensaten1409@gmail.com
-- 🛠 I have a projects: Flappy Bird(Java), Calculator(Java, FXML), Social Network(PHP, JS/JQ/AJAX, MySQL)
+- 🛠 I have a projects: CipherApp for Windows, Flappy Bird(Java), Calculator(Java, FXML), Social Network(PHP, JS/JQ/AJAX, MySQL)
