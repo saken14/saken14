@@ -1,3 +1,3 @@
-- 👀 I’m interested in programming languages such as PHP, JS/JQ/AJAX, Java and C++;
+- 👀 I’m interested in PHP, JS, Java, Laravel, Vue.js;
 - 📫 How to reach me: sakensaten1409@gmail.com
-- 🛠 I have a projects: CipherApp for Windows, Flappy Bird(Java), Calculator(Java, FXML), Social Network(PHP, JS/JQ/AJAX, MySQL)
+- 
