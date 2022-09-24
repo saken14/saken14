@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Saken</h1>
+<h1 align="center">Hi, I'm Saken</h1>
 <h3 align="center">A backend developer</h3>
 
 - 🔭 I’m currently working on [developing e-commerce web application](nomad.kz)
