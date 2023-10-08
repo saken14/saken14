@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [developing e-commerce web application](https://nomad.kz)
 
-- 🌱 I’m currently learning **Laravel, Vue.js, GoLang**
+- 🌱 I’m currently learning **Laravel, Vue.js**
 
 - 💬 Ask me about **algorithms and data structures, PHP, Vue.js, Java, Firebase CM, SPA, web app and web AR**
 
