@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saken14&label=Profile%20views&color=0e75b6&style=flat" alt="saken14" /> </p>
 
-- 🔭 I’m currently working on [developing e-commerce web application](https://nomad.kz)
+- 🔭 I’m currently working on [developing e-commerce web application](https://amanat24.kz)
 
 - 🌱 I’m currently learning **Laravel, Vue.js**
 
